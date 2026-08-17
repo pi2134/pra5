@@ -1,10 +1,10 @@
 import React from "react";
-import Counter from "./ Passwordinput ";
+import Passwordinput from "./ Passwordinput ";
 
 function App() {
 return (
 <div>
-<PasswordInput />
+<Passwordinput />
 </div>
 );
 }
