@@ -1,6 +1,6 @@
 import { useState } from "react";
 
-function PasswordInput() {
+function Passwordinput() {
 const [showPassword, setShowPassword] = useState(false);
 
 return (
@@ -32,4 +32,4 @@ text-sm font-medium text-blue-600 hover:text-blue-800"
 );
 }
 
-export default PasswordInput;
+export default Passwordinput;
